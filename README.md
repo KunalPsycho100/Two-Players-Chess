@@ -1,4 +1,4 @@
-#Two Player Chess in Python with Pygame
+#Two Player Chess in Python with Pygame:
 This repository contains a two-player chess game implemented in Python using the Pygame library. The project demonstrates how to set up a basic chess game with a graphical user interface (GUI) where two players can take turns to play against each other.
 
 Features
